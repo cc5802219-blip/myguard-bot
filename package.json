@@ -1,0 +1,13 @@
+{
+  "name": "myguard-bot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.7.6",
+    "better-sqlite3": "^9.4.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
