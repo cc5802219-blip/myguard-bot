@@ -4,7 +4,7 @@
   "main": "server.js",
   "type": "commonjs",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.6"
+    "@whiskeysockets/baileys": "^6.7.6",
     "better-sqlite3": "^9.4.3"
   },
   "scripts": {
